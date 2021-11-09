@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: Projects
     link_text: Projects
+  - link: Publications
+    link_text: Publications
 - template: hero-banner-w-image
   block: hero-2
   slug: features
